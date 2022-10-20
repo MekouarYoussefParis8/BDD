@@ -1,0 +1,516 @@
+{
+  "Workbook": {
+    "-xmlns": "urn:schemas-microsoft-com:office:spreadsheet",
+    "-xmlns:o": "urn:schemas-microsoft-com:office:office",
+    "-xmlns:x": "urn:schemas-microsoft-com:office:excel",
+    "-xmlns:ss": "urn:schemas-microsoft-com:office:spreadsheet",
+    "-xmlns:html": "http://www.w3.org/TR/REC-html40",
+    "DocumentProperties": {
+      "-xmlns": "urn:schemas-microsoft-com:office:office",
+      "Author": "Microsoft Office User",
+      "LastAuthor": "Microsoft Office User",
+      "Created": "2022-10-18T19:42:17Z",
+      "LastSaved": "2022-10-20T15:50:00Z",
+      "Version": "16.00"
+    },
+    "OfficeDocumentSettings": { "-xmlns": "urn:schemas-microsoft-com:office:office" },
+    "ExcelWorkbook": {
+      "-xmlns": "urn:schemas-microsoft-com:office:excel",
+      "WindowHeight": "10220",
+      "WindowWidth": "25440",
+      "WindowTopX": "160",
+      "WindowTopY": "2040",
+      "ProtectStructure": "False",
+      "ProtectWindows": "False"
+    },
+    "Styles": {
+      "Style": [
+        {
+          "-ss:ID": "Default",
+          "-ss:Name": "Normal",
+          "Alignment": { "-ss:Vertical": "Bottom" },
+          "Font": {
+            "-ss:FontName": "Calibri",
+            "-x:Family": "Swiss",
+            "-ss:Size": "12",
+            "-ss:Color": "#000000"
+          }
+        },
+        {
+          "-ss:ID": "s16",
+          "NumberFormat": { "-ss:Format": "Short Date" }
+        }
+      ]
+    },
+    "Worksheet": [
+      {
+        "-ss:Name": "ENFANT",
+        "Table": {
+          "-ss:ExpandedColumnCount": "8",
+          "-ss:ExpandedRowCount": "2",
+          "-x:FullColumns": "1",
+          "-x:FullRows": "1",
+          "-ss:DefaultColumnWidth": "65",
+          "-ss:DefaultRowHeight": "16",
+          "Row": [
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "ID"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "NOM"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "PRENOM"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "ADRESSE"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "TEIP"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "TEIM"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "MONTANT PAYÉ TOTAL "
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "QUOTIENT FAMILIAL"
+                  }
+                }
+              ]
+            },
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "1"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "LI"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "ANNA"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "1 RUE STAR"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "123"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "123"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "321"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "3"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "WorksheetOptions": {
+          "-xmlns": "urn:schemas-microsoft-com:office:excel",
+          "PageSetup": {
+            "Header": { "-x:Margin": "0.3" },
+            "Footer": { "-x:Margin": "0.3" },
+            "PageMargins": {
+              "-x:Bottom": "0.75",
+              "-x:Left": "0.7",
+              "-x:Right": "0.7",
+              "-x:Top": "0.75"
+            }
+          },
+          "Panes": {
+            "Pane": {
+              "Number": "3",
+              "ActiveRow": "2",
+              "ActiveCol": "5"
+            }
+          },
+          "ProtectObjects": "False",
+          "ProtectScenarios": "False"
+        }
+      },
+      {
+        "-ss:Name": "ETABLISSEMENT",
+        "Table": {
+          "-ss:ExpandedColumnCount": "5",
+          "-ss:ExpandedRowCount": "2",
+          "-x:FullColumns": "1",
+          "-x:FullRows": "1",
+          "-ss:DefaultColumnWidth": "65",
+          "-ss:DefaultRowHeight": "16",
+          "Row": [
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "CODE"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "NOM"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "ADRESSE"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "DIRECTEUR"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "TEL DIRECTEUR"
+                  }
+                }
+              ]
+            },
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "31001"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "TOTAL SAL"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "2 RUE STAT"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "LYON LI"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "07 88 23 44 55"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "WorksheetOptions": {
+          "-xmlns": "urn:schemas-microsoft-com:office:excel",
+          "PageSetup": {
+            "Header": { "-x:Margin": "0.3" },
+            "Footer": { "-x:Margin": "0.3" },
+            "PageMargins": {
+              "-x:Bottom": "0.75",
+              "-x:Left": "0.7",
+              "-x:Right": "0.7",
+              "-x:Top": "0.75"
+            }
+          },
+          "Panes": {
+            "Pane": {
+              "Number": "3",
+              "ActiveRow": "6",
+              "ActiveCol": "3"
+            }
+          },
+          "ProtectObjects": "False",
+          "ProtectScenarios": "False"
+        }
+      },
+      {
+        "-ss:Name": "REPAS",
+        "Table": {
+          "-ss:ExpandedColumnCount": "4",
+          "-ss:ExpandedRowCount": "2",
+          "-x:FullColumns": "1",
+          "-x:FullRows": "1",
+          "-ss:DefaultColumnWidth": "65",
+          "-ss:DefaultRowHeight": "16",
+          "Row": [
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "DATE"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "ENTREE"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "PLAT"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "DESSERT"
+                  }
+                }
+              ]
+            },
+            {
+              "Cell": [
+                {
+                  "-ss:StyleID": "s16",
+                  "Data": {
+                    "-ss:Type": "DateTime",
+                    "#text": "2022-10-01T00:00:00.000"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "lait  pain"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "beuf"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "salad"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "WorksheetOptions": {
+          "-xmlns": "urn:schemas-microsoft-com:office:excel",
+          "PageSetup": {
+            "Header": { "-x:Margin": "0.3" },
+            "Footer": { "-x:Margin": "0.3" },
+            "PageMargins": {
+              "-x:Bottom": "0.75",
+              "-x:Left": "0.7",
+              "-x:Right": "0.7",
+              "-x:Top": "0.75"
+            }
+          },
+          "Panes": {
+            "Pane": {
+              "Number": "3",
+              "ActiveRow": "12",
+              "ActiveCol": "4"
+            }
+          },
+          "ProtectObjects": "False",
+          "ProtectScenarios": "False"
+        }
+      },
+      {
+        "-ss:Name": "TRANCHE",
+        "Table": {
+          "-ss:ExpandedColumnCount": "2",
+          "-ss:ExpandedRowCount": "2",
+          "-x:FullColumns": "1",
+          "-x:FullRows": "1",
+          "-ss:DefaultColumnWidth": "65",
+          "-ss:DefaultRowHeight": "16",
+          "Row": [
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "tranche"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "libellé"
+                  }
+                }
+              ]
+            },
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "1"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "abc"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "WorksheetOptions": {
+          "-xmlns": "urn:schemas-microsoft-com:office:excel",
+          "PageSetup": {
+            "Header": { "-x:Margin": "0.3" },
+            "Footer": { "-x:Margin": "0.3" },
+            "PageMargins": {
+              "-x:Bottom": "0.75",
+              "-x:Left": "0.7",
+              "-x:Right": "0.7",
+              "-x:Top": "0.75"
+            }
+          },
+          "Panes": {
+            "Pane": {
+              "Number": "3",
+              "ActiveRow": "1",
+              "ActiveCol": "1"
+            }
+          },
+          "ProtectObjects": "False",
+          "ProtectScenarios": "False"
+        }
+      },
+      {
+        "-ss:Name": "TYPE",
+        "Table": {
+          "-ss:ExpandedColumnCount": "2",
+          "-ss:ExpandedRowCount": "2",
+          "-x:FullColumns": "1",
+          "-x:FullRows": "1",
+          "-ss:DefaultColumnWidth": "65",
+          "-ss:DefaultRowHeight": "16",
+          "Row": [
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "code_type"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "libelle"
+                  }
+                }
+              ]
+            },
+            {
+              "Cell": [
+                {
+                  "Data": {
+                    "-ss:Type": "Number",
+                    "#text": "1"
+                  }
+                },
+                {
+                  "Data": {
+                    "-ss:Type": "String",
+                    "#text": "abc"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "WorksheetOptions": {
+          "-xmlns": "urn:schemas-microsoft-com:office:excel",
+          "PageSetup": {
+            "Header": { "-x:Margin": "0.3" },
+            "Footer": { "-x:Margin": "0.3" },
+            "PageMargins": {
+              "-x:Bottom": "0.75",
+              "-x:Left": "0.7",
+              "-x:Right": "0.7",
+              "-x:Top": "0.75"
+            }
+          },
+          "Panes": {
+            "Pane": {
+              "Number": "3",
+              "ActiveRow": "4",
+              "ActiveCol": "2"
+            }
+          },
+          "ProtectObjects": "False",
+          "ProtectScenarios": "False"
+        }
+      }
+    ]
+  }
+}

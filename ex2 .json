@@ -1,0 +1,69 @@
+{
+  "Adherent": [
+      {
+          "DateNaissance": 19981016,
+          "Id": 0,
+          "Nom": "Doe",
+          "Prenom": "John"
+      },
+      {
+          "DateNaissance": 19951205,
+          "Id": 1,
+          "Nom": "Jean",
+          "Prenom": "Martin"
+      }
+  ],
+  "Responsable ": [
+      {
+          "Id": 0,
+          "Nom": "Calypso",
+          "Prenom": "Martinez"
+      },
+      {
+          "Id": 1,
+          "Nom": "Zebulon",
+          "Prenom": "Enchante"
+      }
+  ],
+  "Activite": [
+      {
+          "Id": "0",
+          "Libelle": "Surf",
+          "Tarif": 70,
+          "ResponsableId": 0
+      },
+      {
+          "Id": "1",
+          "Libelle": "Paddle",
+          "Tarif ": 20,
+          "ResponsableId": 0
+      },
+      {
+          "Id": "2",
+          "Libelle": "Cannoe",
+          "Tarif ": 20,
+          "ResponsableId": 1
+      }
+  ],
+  "Inscrire": [
+      {
+          "AdherentId": "0",
+          "ActiviteId": "0",
+          "DateAdhesion": 20221027,
+          "Paye": true
+      },
+      {
+          "AdherentId": "0",
+          "ActiviteId": "1",
+          "DateAdhesion": 20221028,
+          "Paye": false
+      },
+      {
+          "AdherentId": "1",
+          "ActiviteId": "1",
+          "DateAdhesion": 20221031,
+          "Paye": false
+      }    
+  ],
+
+}
